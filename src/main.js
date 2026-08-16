@@ -1,1 +1,2 @@
-import { nanoid } from 'nanoid'
+import { nanoid } from 'nanoid';
+console.log(nanoid(2));
